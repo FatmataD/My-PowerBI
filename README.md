@@ -78,3 +78,4 @@ Retail and sales data analysis, including:
 - Communicating insights through strong data storytelling  
 
 ---
+[Link to my report] (https://app.powerbi.com/view?r=eyJrIjoiNDQ3OTkxZTYtMTEzZi00MGM0LTliODctMDk3YjFlNDZhMDJlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
