@@ -79,3 +79,4 @@ Retail and sales data analysis, including:
 
 ---
 [Link to my report] (https://app.powerbi.com/view?r=eyJrIjoiNDQ3OTkxZTYtMTEzZi00MGM0LTliODctMDk3YjFlNDZhMDJlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+(https://app.powerbi.com/viehttps://app.powerbi.com/view?r=eyJrIjoiODI1MmZmM2QtN2I1Zi00NzQ2LThiMzktYWE1NzE5MDliZjEwIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9w?r=eyJrIjoiODYwMWZjYzAtODlmYS00Nzk0LWJmOWUtZDhmMmNmMDVkYmE3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
